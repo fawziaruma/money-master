@@ -29,13 +29,14 @@ h1{
     margin: 30px;
     background-color: white;
     margin: 30px;
-    z-index: -1;
+    position: relative;
 }
 .input{
     margin: 50px;
     padding: 10px;
     font-size: 30px;
     cursor: pointer;
+    
 }
 
 .btn{
