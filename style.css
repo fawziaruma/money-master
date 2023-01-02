@@ -38,6 +38,13 @@ h1{
     cursor: pointer;
     
 }
+.input input{
+    padding: 8px;
+    background-color: rgb(209, 201, 201);
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
 
 .btn{
     background-color: #066acd;
